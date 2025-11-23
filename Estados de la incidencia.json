@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "clave": "ABIERTO",
+      "nombre": "Abierto",
+      "descripcion": "Alerta enviada"
+    },
+    {
+      "id": 2,
+      "clave": "EN_EJECUCION",
+      "nombre": "En ejecución",
+      "descripcion": "Solicitud Confirmada"
+    },
+    {
+      "id": 3,
+      "clave": "CONCLUIDO",
+      "nombre": "Concluido",
+      "descripcion": "Realizado de manera exitosa"
+    },
+    {
+      "id": 4,
+      "clave": "ANULADO",
+      "nombre": "Anulado",
+      "descripcion": "Fue interrumpido y cancelado"
+    },
+    {
+      "id": 5,
+      "clave": "INCONCLUSO",
+      "nombre": "Inconcluso",
+      "descripcion": "No se realizó en las condiciones establecidas"
+    }
+  ]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre_estacion": "Sucursal 1",
+    "ubicacion": "Avenida Zaragoza No. 340."
+  },
+  {
+    "id": 2,
+    "nombre_estacion": "Sucursal 2",
+    "ubicacion": "Calle de la Alhóndiga No. 12, a un costado del Mercado de Sonora."
+  },
+  {
+    "id": 3,
+    "nombre_estacion": "Sucursal 3",
+    "ubicacion": "Avenida Constituyentes 900, frente a la Glorieta de la Lealtad."
+  }
+]

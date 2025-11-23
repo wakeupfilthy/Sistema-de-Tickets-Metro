@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "nombre_incidencia": "Bloqueo de puertas de vagón",
+    "categoria": "Unidad",
+    "nivel_prioridad": 5,
+    "tiempo_estimado_reparacion": 20
+  },
+  {
+    "id": 2,
+    "nombre_incidencia": "Falla de aire acondicionado en vagón",
+    "categoria": "Unidad",
+    "nivel_prioridad": 2,
+    "tiempo_estimado_reparacion": 60
+  },
+  {
+    "id": 3,
+    "nombre_incidencia": "Zapatas de freno pegadas",
+    "categoria": "Unidad",
+    "nivel_prioridad": 5,
+    "tiempo_estimado_reparacion": 45
+  },
+  {
+    "id": 4,
+    "nombre_incidencia": "Falla en sistema de megafonía del tren",
+    "categoria": "Unidad",
+    "nivel_prioridad": 1,
+    "tiempo_estimado_reparacion": 30
+  },
+  {
+    "id": 5,
+    "nombre_incidencia": "Falso en circuito de vía",
+    "categoria": "Control",
+    "nivel_prioridad": 5,
+    "tiempo_estimado_reparacion": 40
+  },
+  {
+    "id": 6,
+    "nombre_incidencia": "Falla en cambio de vía)",
+    "categoria": "Control",
+    "nivel_prioridad": 5,
+    "tiempo_estimado_reparacion": 55
+  },
+  {
+    "id": 7,
+    "nombre_incidencia": "Pérdida de comunicación tren-control",
+    "categoria": "Control",
+    "nivel_prioridad": 4,
+    "tiempo_estimado_reparacion": 30
+  },
+  {
+    "id": 8,
+    "nombre_incidencia": "Semáforo defectusoso",
+    "categoria": "Control",
+    "nivel_prioridad": 3,
+    "tiempo_estimado_reparacion": 20
+  },
+  {
+    "id": 9,
+    "nombre_incidencia": "Fisura en riel",
+    "categoria": "Vías y Estructura",
+    "nivel_prioridad": 5,
+    "tiempo_estimado_reparacion": 80
+  },
+  {
+    "id": 10,
+    "nombre_incidencia": "Objeto en vías",
+    "categoria": "Vías y Estructura",
+    "nivel_prioridad": 4,
+    "tiempo_estimado_reparacion": 15
+  },
+  {
+    "id": 11,
+    "nombre_incidencia": "Filtración de agua en túnel",
+    "categoria": "Vías y Estructura",
+    "nivel_prioridad": 3,
+    "tiempo_estimado_reparacion": 60
+  },
+  {
+    "id": 12,
+    "nombre_incidencia": "Sujeción de vía suelto",
+    "categoria": "Vías y Estructura",
+    "nivel_prioridad": 3,
+    "tiempo_estimado_reparacion": 25
+  },
+  {
+    "id": 13,
+    "nombre_incidencia": "Corte de tensión en catenaria",
+    "categoria": "Energía",
+    "nivel_prioridad": 5,
+    "tiempo_estimado_reparacion": 60
+  },
+  {
+    "id": 14,
+    "nombre_incidencia": "Disparo de interruptor en subestación",
+    "categoria": "Energía",
+    "nivel_prioridad": 4,
+    "tiempo_estimado_reparacion": 35
+  },
+  {
+    "id": 15,
+    "nombre_incidencia": "Falla en alumbrado de túnel",
+    "categoria": "Energía",
+    "nivel_prioridad": 2,
+    "tiempo_estimado_reparacion": 45
+  },
+  {
+    "id": 16,
+    "nombre_incidencia": "Recalentamiento en transformador auxiliar",
+    "categoria": "Energía",
+    "nivel_prioridad": 4,
+    "tiempo_estimado_reparacion": 75
+  },
+  {
+    "id": 17,
+    "nombre_incidencia": "Escalera mecánica detenida",
+    "categoria": "Instalaciones",
+    "nivel_prioridad": 3,
+    "tiempo_estimado_reparacion": 40
+  },
+  {
+    "id": 18,
+    "nombre_incidencia": "Atrapamiento en ascensor",
+    "categoria": "Instalaciones",
+    "nivel_prioridad": 5,
+    "tiempo_estimado_reparacion": 30
+  },
+  {
+    "id": 19,
+    "nombre_incidencia": "Torniquete de entrada atascado",
+    "categoria": "Instalaciones",
+    "nivel_prioridad": 2,
+    "tiempo_estimado_reparacion": 20
+  },
+  {
+    "id": 20,
+    "nombre_incidencia": "Máquina expendedora fuera de servicio",
+    "categoria": "Instalaciones",
+    "nivel_prioridad": 1,
+    "tiempo_estimado_reparacion": 25
+  },
+  {
+    "id": 21,
+    "nombre_incidencia": "otros",
+    "categoria": "General",
+    "nivel_prioridad": 1,
+    "tiempo_estimado_reparacion": 30
+  }
+]

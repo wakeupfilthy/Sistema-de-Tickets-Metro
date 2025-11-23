@@ -1,0 +1,30 @@
+[
+    {
+      "id": 101,
+      "detalle_ejemplo": "Unidad de tren presenta avería mecánica neumática deteniéndose entre estaciones."
+    },
+    {
+      "id": 102,
+      "detalle_ejemplo": "Caída de objeto a las vías."
+    },
+    {
+      "id": 103,
+      "detalle_ejemplo": "Falla en el suministro de la barra guía  que afecta la tracción de los trenes."
+    },
+    {
+      "id": 104,
+      "detalle_ejemplo": "Reporte de semáforo ferroviario que no cambia de estado afectando el intervalo de paso de trenes."
+    },
+    {
+      "id": 105,
+      "detalle_ejemplo": "Viajero que sufre un desmayo o crisis convulsiva en el andén."
+    },
+    {
+      "id": 106,
+      "detalle_ejemplo": "Acumulación significativa de agua en tunel debido a fuertes lluvias."
+    },
+    {
+      "id": 107,
+      "detalle_ejemplo": "Identificación de grafiti fresco en cámaras de la estación."
+    }
+  ]

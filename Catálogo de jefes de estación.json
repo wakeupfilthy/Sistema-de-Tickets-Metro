@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre_jefe_estacion": "Carlos Ruiz",
+    "contacto_jefe_estacion": "carlos@example.com",
+    "id_estacion": 1
+  },
+  {
+    "id": 2,
+    "nombre_jefe_estacion": "Laura Mendoza",
+    "contacto_jefe_estacion": "laura@example.com",
+    "id_estacion": 20
+  },
+  {
+    "id": 3,
+    "nombre_jefe_estacion": "Miguel Ángel Soto",
+    "contacto_jefe_estacion": "miguel@example.com",
+    "id_estacion": 8
+  },
+  {
+    "id": 4,
+    "nombre_jefe_estacion": "Sofía Hernández",
+    "contacto_jefe_estacion": "sofia@example.com",
+    "id_estacion": 13
+  }
+]

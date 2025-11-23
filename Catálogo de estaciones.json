@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre_estacion": "Pantitlán",
+    "id_sucursal": 1,
+    "tiempo_viaje_aproximado": 27
+  },
+  {
+    "id": 2,
+    "nombre_estacion": "Zaragoza",
+    "id_sucursal": 1,
+    "tiempo_viaje_aproximado": 24
+  },
+  {
+    "id": 3,
+    "nombre_estacion": "Gómez Farías",
+    "id_sucursal": 1,
+    "tiempo_viaje_aproximado": 26.2
+  },
+  {
+    "id": 4,
+    "nombre_estacion": "Boulevard Puerto Aéreo",
+    "id_sucursal": 1,
+    "tiempo_viaje_aproximado": 25
+  },
+  {
+    "id": 5,
+    "nombre_estacion": "Balbuena",
+    "id_sucursal": 1,
+    "tiempo_viaje_aproximado": 26
+  },
+  {
+    "id": 6,
+    "nombre_estacion": "Moctezuma",
+    "id_sucursal": 1,
+    "tiempo_viaje_aproximado": 27
+  },
+  {
+    "id": 7,
+    "nombre_estacion": "San Lázaro",
+    "id_sucursal": 2,
+    "tiempo_viaje_aproximado": 31
+  },
+  {
+    "id": 8,
+    "nombre_estacion": "Candelaria",
+    "id_sucursal": 2,
+    "tiempo_viaje_aproximado": 34
+  },
+  {
+    "id": 9,
+    "nombre_estacion": "Merced",
+    "id_sucursal": 2,
+    "tiempo_viaje_aproximado": 29
+  },
+  {
+    "id": 10,
+    "nombre_estacion": "Pino Suárez",
+    "id_sucursal": 2,
+    "tiempo_viaje_aproximado": 28.4
+  },
+  {
+    "id": 11,
+    "nombre_estacion": "Isabel la Católica",
+    "id_sucursal": 2,
+    "tiempo_viaje_aproximado": 22
+  },
+  {
+    "id": 12,
+    "nombre_estacion": "Salto del Agua",
+    "id_sucursal": 2,
+    "tiempo_viaje_aproximado": 24
+  },
+  {
+    "id": 13,
+    "nombre_estacion": "Balderas",
+    "id_sucursal": 2,
+    "tiempo_viaje_aproximado": 33
+  },
+  {
+    "id": 14,
+    "nombre_estacion": "Cuauhtémoc",
+    "id_sucursal": 3,
+    "tiempo_viaje_aproximado": 28
+  },
+  {
+    "id": 15,
+    "nombre_estacion": "Insurgentes",
+    "id_sucursal": 3,
+    "tiempo_viaje_aproximado": 33
+  },
+  {
+    "id": 16,
+    "nombre_estacion": "Sevilla",
+    "id_sucursal": 3,
+    "tiempo_viaje_aproximado": 23
+  },
+  {
+    "id": 17,
+    "nombre_estacion": "Chapultepec",
+    "id_sucursal": 3,
+    "tiempo_viaje_aproximado": 27.8
+  },
+  {
+    "id": 18,
+    "nombre_estacion": "Juanacatlán",
+    "id_sucursal": 3,
+    "tiempo_viaje_aproximado": 27
+  },
+  {
+    "id": 19,
+    "nombre_estacion": "Tacubaya",
+    "id_sucursal": 3,
+    "tiempo_viaje_aproximado": 2.5
+  },
+  {
+    "id": 20,
+    "nombre_estacion": "Observatorio",
+    "id_sucursal": 3,
+    "tiempo_viaje_aproximado": 2.5
+  }
+]
