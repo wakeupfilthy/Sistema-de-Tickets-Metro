@@ -2,7 +2,7 @@ from google import genai
 from google.genai import types
 import json
 
-client = genai.Client(api_key="AIzaSyCJWfml5Y4HXplIlq91l436Z5Y6VUHnUrQ")
+client = genai.Client(api_key="API_KEY")
 
 def buscar_dato_json(archivo, id_buscado, campo_buscado):
     with open(archivo, 'r', encoding='utf-8') as archivo:
@@ -181,4 +181,5 @@ def main(audio_path, id_ticket, id_jefe, hora):
     )
     #convertir a JSON para visualizar mejor
     ticket_json = json.dumps(ticket_generado, indent=2, ensure_ascii=False)
+
     return ticket_json
